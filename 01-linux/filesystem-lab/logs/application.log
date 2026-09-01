@@ -1,0 +1,5 @@
+INFO database connected
+ERROR database timeout
+INFO database connected
+INFO request processed
+ERROR Redis connection failed
