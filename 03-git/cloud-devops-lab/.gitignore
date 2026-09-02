@@ -1,0 +1,11 @@
+.env
+*.log
+*.tfstate
+*.tfstate.*
+.terraform/
+node_modules/
+__pycache__/
+.vscode/
+
+
+
